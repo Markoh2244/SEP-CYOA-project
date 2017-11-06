@@ -7,4 +7,4 @@ Created by Marko Henien and Eva Noertoft
 
 [Marko's Github account](https://github.com/Markoh2244)
 
-[screen shot](pictures/screen_Shot_drawing.png)
+[screen shot](../pictures/Screen_Shot_drawing.png)
