@@ -6,3 +6,5 @@ Created by Marko Henien and Eva Noertoft
 [Eva's Github account](https://github.com/evan2304)
 
 [Marko's Github account](https://github.com/Markoh2244)
+
+[screen shot](pictures/screen_Shot_drawing.png)
